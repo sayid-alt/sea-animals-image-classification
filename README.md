@@ -1,4 +1,4 @@
-# Project Title
+# Sea Animals Image Classification
 
 ## Getting Started
 
@@ -18,4 +18,5 @@ Ensure you have the following installed:
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/sayid-alt/sea-animals-image-classification.git
+   ```
